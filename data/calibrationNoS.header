@@ -1,0 +1,13 @@
+mjd=60599.331067772
+dev_args=
+rf_gain=50
+if_gain=25
+bb_gain=18
+frequency=1420000000.0
+bandwidth=2400000.0
+channels=4096
+t_sample=0.1
+duration=300
+loc=
+ra_dec=
+az_alt=
